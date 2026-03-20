@@ -30,5 +30,5 @@ def run_scan(domain):
     create_graph(nodes)
 
 print(f"[+] Scan complete! Risk Score:{risk_score}")
-print("[+] HTML report saved as report.html")
+print("[+] HTML report saved as CloudSonarReport.html")
 print("[+] Attack surface graph saved as attack_surface.png")
